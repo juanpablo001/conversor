@@ -11,7 +11,7 @@ Permite realizar una conversión de unidades monetarias, de temperatura o de med
 El proyecto es realizado en lenguaje Java.
 
 ## Versión
-la versión del código es 0.1.0
+La versión del código es 0.1.0
 
 ## Acerca del proyecto
 Este proyecto forma parte del proceso Oracle ONE en conjunto con Alura Latam. #challengeoneconversorlatam2
